@@ -7,5 +7,5 @@ Some information about me:
 - ⚡ My projects include [aeonfree.com](https://aeonfree.com), [RecommendAnime](https://recommendanime.com), [GuessFootball.com](https://guessfootball.com) + [Android App](https://play.google.com/store/apps/details?id=com.guessfootball.app), and [subtract.site](https://subtract.site)
 - ✒️ I write blogs at [Rudrax.net](https://rudrax.net),
 - 📫 Take a look at my portfolio @ [SameerKhanal.com](https://sameerkhanal.com),
-- 👯 I'm open to collaboration and work.
+- 🤝 I'm open to collaboration and work.
 
